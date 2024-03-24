@@ -1,4 +1,6 @@
-# Creating a project
+# How to create a SegmentedControl with your custom view
+
+## Creating a project
 Create a new BlankApp (Xamarin.Forms.Portable) application in Visual Studio for Xamarin.Forms.
 
 ## Adding SfSegmentedControl in Xamarin.Forms
@@ -34,7 +36,7 @@ public partial class MainPage : ContentPage
     }
 }
 ```
-# How to create a SegmentedControl with your custom view
+## Create a SegmentedControl with custom view
 
 SegmentedControl provides support to add any custom view as their segment by populating collections of custom views as ItemsSource.
 
