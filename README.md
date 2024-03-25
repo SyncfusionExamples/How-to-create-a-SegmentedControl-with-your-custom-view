@@ -84,7 +84,7 @@ The code below shows how to add image view collection as segmented items
 To run this application, you need to first clone the How-to-create-a-SegmentedControl-with-your-custom-view repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 ## <a name="troubleshooting"></a>Troubleshooting ##
-## Path too long exception
+### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
 ## License
