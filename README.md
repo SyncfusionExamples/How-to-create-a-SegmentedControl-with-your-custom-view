@@ -34,7 +34,7 @@ public partial class MainPage : ContentPage
     }
 }
 ```
-# How to create a SegmentedControl with your custom view
+## How to create a SegmentedControl with your custom view
 
 SegmentedControl provides support to add any custom view as their segment by populating collections of custom views as ItemsSource.
 
